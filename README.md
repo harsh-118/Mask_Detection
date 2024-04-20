@@ -1,3 +1,15 @@
+# Libraries Used:
+**numpy (as np):** For numerical operations.\
+**pandas (as pd):** For handling data in DataFrame format.\
+**PIL:** For image loading and resizing.\
+**OpenCV:** For real-time face detection and webcam handling.\
+**TensorFlow(as tf):** For defining and training the CNN model.\
+**requests:** For making HTTP requests to retrieve web content.\
+**BeautifulSoup (from bs4):** For parsing HTML content.\
+**nltk:** For natural language processing tasks like tokenization and stopwords removal.
+
+
+
 # Mask Detection System Overview:
 ### Objective: Develop a system to detect whether a person is wearing a mask in real-time using a webcam feed.
 ## Approach:
