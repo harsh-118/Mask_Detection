@@ -47,7 +47,9 @@ Release the video capture (cap.release()) and close OpenCV windows (cv2.destroyA
 
 
 # With Mask
-![with_mask](https://github.com/harsh-118/Mask_Detection/assets/166591573/65a176b9-e76e-491b-b8e8-df8d1ee960e0)
+![With_mask](https://github.com/harsh-118/Mask_Detection/assets/166591573/1d49ba23-34f9-4c2c-abca-2ca6a4be46ae)
+
 
 # Without Mask
-![without_mask](https://github.com/harsh-118/Mask_Detection/assets/166591573/d45e0a14-2076-4128-8dab-2297eef39e88)
+![Without_mask](https://github.com/harsh-118/Mask_Detection/assets/166591573/fdc17f48-16e0-4489-8f33-453c8b4e3c04)
+
