@@ -44,3 +44,10 @@ Draw rectangles and labels on detected faces based on the prediction (ans > 0.5)
 ### 5.End of Execution:
 Exit the webcam loop (while cap.isOpened()) when the user presses 'q' (if cv2.waitKey(1) == 113:).
 Release the video capture (cap.release()) and close OpenCV windows (cv2.destroyAllWindows()).
+
+
+# With Mask
+![with_mask](https://github.com/harsh-118/Mask_Detection/assets/166591573/65a176b9-e76e-491b-b8e8-df8d1ee960e0)
+
+# Without Mask
+![without_mask](https://github.com/harsh-118/Mask_Detection/assets/166591573/d45e0a14-2076-4128-8dab-2297eef39e88)
