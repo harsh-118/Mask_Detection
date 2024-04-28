@@ -10,6 +10,26 @@ The COVID-19 pandemic has emphasized the importance of wearing masks to prevent 
 * CNN model trained on a dataset of masked and unmasked faces.
 * User-friendly interface for easy deployment and usage.
 
+# Dependencies
+To run this project, you need the following dependencies:
+
+**1.Python 3.x:** The code is written in Python 3.\
+**2.TensorFlow:** TensorFlow is an open-source machine learning framework. You can install it via pip:
+```
+pip install tensorflow
+```
+
+**3.OpenCV:** OpenCV is a library used for computer vision tasks. It's used here for video capture and face detection. You can install it via pip:
+```
+pip install opencv-python
+```
+
+**4.Pillow:** Pillow is a Python Imaging Library that adds support for opening, manipulating, and saving many different image file formats. Install it via pip:
+```
+pip install Pillow
+```
+
+
 ## Installation
 To run the mask detection system locally, follow these steps:
 
