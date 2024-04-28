@@ -1,14 +1,22 @@
-# Libraries Used:
-* **numpy (as np):** For numerical operations.
-* **pandas (as pd):** For handling data in DataFrame format.
-* **PIL:** For image loading and resizing.
-* **OpenCV:** For real-time face detection and webcam handling.
-* **TensorFlow(as tf):** For defining and training the CNN model.
-* **requests:** For making HTTP requests to retrieve web content.
-* **BeautifulSoup (from bs4):** For parsing HTML content.
-* **nltk:** For natural language processing tasks like tokenization and stopwords removal.
+# Mask Detection System using CNN and OpenCV
+This project aims to detect whether a person is wearing a mask or not using Convolutional Neural Networks (CNNs) and OpenCV. The system utilizes a trained CNN model to predict mask presence on live video streams captured from a webcam.
 
+### Table of Contents
+* Introduction
+* Features
+* Installation
+* Usage
+* Model Training
+* License
 
+## Introduction
+The COVID-19 pandemic has emphasized the importance of wearing masks to prevent the spread of the virus. This project provides a solution for automated mask detection, which can be deployed in various environments such as airports, hospitals, and public places to ensure compliance with mask-wearing regulations.
+
+## Features
+* Real-time mask detection using webcam feed.
+* Efficient face detection with OpenCV's Haar Cascade Classifier.
+* CNN model trained on a dataset of masked and unmasked faces.
+* User-friendly interface for easy deployment and usage.
 
 # Mask Detection System Overview:
 ### Objective: Develop a system to detect whether a person is wearing a mask in real-time using a webcam feed.
