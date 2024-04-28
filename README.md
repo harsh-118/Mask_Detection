@@ -13,15 +13,23 @@ The COVID-19 pandemic has emphasized the importance of wearing masks to prevent 
 ## Installation
 To run the mask detection system locally, follow these steps:
 
-**1.Clone the Repository:**\
-```git clone https://github.com/yourusername/mask-detection.git```\
-**2.Navigate to Project Directory:**\
-```cd mask-detection```\
-**3.Install Dependencies:**\
-```pip install -r requirements.txt```
+**1.Clone the Repository:**
+```
+git clone https://github.com/yourusername/mask-detection.git
+```
+**2.Navigate to Project Directory:**
+```
+cd mask-detection
+```
+**3.Install Dependencies:**
+```
+pip install -r requirements.txt
+```
 ### Usage
-**1.Run the Mask Detection System:**\
-```python mask_detection.py```\
+**1.Run the Mask Detection System:**
+```
+python mask_detection.py
+```
 **2.Allow Webcam Access:** Grant permission for the program to access your webcam.\
 **3.Real-time Detection:** The system will display a live video stream with real-time mask detection results.
 
